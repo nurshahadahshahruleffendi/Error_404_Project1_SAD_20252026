@@ -18,7 +18,7 @@ abc
 
 
 # Phase 1 : Project Proposal And Planning
-Kanban Board Link : https://github.com/users/nurshahadahshahruleffendi/projects/1/views/1  
+[Kanban Board Link](https://github.com/users/nurshahadahshahruleffendi/projects/1/views/1)  
 
 
 
