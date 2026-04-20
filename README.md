@@ -3,7 +3,7 @@
 # <p align="center">【Muara Makeup Service System】
 
 # Description
-This repository is for Project 1 SAD 2025/2026.
+The Muara Makeup Service System also known as MMSS serves as a centralized digital marketplace that bridges the gap between professional makeup artists and clients. By integrating an intelligent recommendation engine, the system streamlines the entire discovery process, allowing users to seamlessly search, evaluate and book services within a single, unified platform. Ultimately, MMSS provides a comprehensive solution to the existing inefficiencies in manual booking, transforming how beauty services are managed and accessed.
 
 
 # Group Member
