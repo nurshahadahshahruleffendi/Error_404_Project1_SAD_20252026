@@ -3,7 +3,7 @@
 # <p align="center">【Muara Makeup Service System】
 
 # Description
-This repository is for Project 1 SAD 2025/2026
+This repository is for Project 1 SAD 2025/2026.
 
 
 # Group Member
