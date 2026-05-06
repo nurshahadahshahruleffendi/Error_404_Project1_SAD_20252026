@@ -19,6 +19,9 @@ The Muara Makeup Service System also known as MMSS serves as a centralized digit
 
 # Phase 1 : Project Proposal And Planning
 [Kanban Board Link](https://github.com/users/nurshahadahshahruleffendi/projects/1/views/1)  
+[Report Phase 1](https://github.com/user-attachments/files/27428543/SECD2613.PROJECT.PHASE.1.pdf)
+
+
 
 
 
