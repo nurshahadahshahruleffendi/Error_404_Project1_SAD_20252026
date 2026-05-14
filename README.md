@@ -1,9 +1,9 @@
 # <p align="center"> SECD2613 SYSTEM ANALYSIS AND DESIGN PROJECT
 
-# <p align="center">【Muara Makeup Service System】
+# <p align="center">【FlexServe】
 
 # Description
-The Muara Makeup Service System also known as MMSS serves as a centralized digital marketplace that bridges the gap between professional makeup artists and clients. By integrating an intelligent recommendation engine, the system streamlines the entire discovery process, allowing users to seamlessly search, evaluate and book services within a single, unified platform. Ultimately, MMSS provides a comprehensive solution to the existing inefficiencies in manual booking, transforming how beauty services are managed and accessed.
+FlexServe acts as the central digital hub which facilitates interactions between freelance service providers like make-up artists and personal tutors with their clients. Using a well-coordinated booking and communication system, FlexServe ensures that the whole process of managing service-related activities is made efficient for both parties, where searching for services, reviewing them, and eventually booking them can be done from one single platform.
 
 
 # Group Member
@@ -19,7 +19,7 @@ The Muara Makeup Service System also known as MMSS serves as a centralized digit
 
 # Phase 1 : Project Proposal And Planning
 [Kanban Board Link](https://github.com/users/nurshahadahshahruleffendi/projects/1/views/1)  
-[Report Phase 1](https://github.com/user-attachments/files/27428543/SECD2613.PROJECT.PHASE.1.pdf)
+[Report Phase 1]()
 
 # Phase 2 : Information System Gathering And Requirement
 
