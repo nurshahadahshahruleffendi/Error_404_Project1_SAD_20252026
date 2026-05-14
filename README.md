@@ -3,7 +3,7 @@
 # <p align="center">【FlexServe】
 
 # Description
-FlexServe acts as the central digital hub which facilitates interactions between freelance service providers like make-up artists and personal tutors with their clients. Using a well-coordinated booking and communication system, FlexServe ensures that the whole process of managing service-related activities is made efficient for both parties, where searching for services, reviewing them, and eventually booking them can be done from one single platform.
+FlexServe is a digital marketplace for professional service providers like makeup artists and private tutors and their respective customers. The integration of a smart recommendation and booking system allows FlexServe to provide a streamlined way for people to find, evaluate, and book services all in one place. Overall, FlexServe resolves the issues that arise from manual scheduling and communication, revolutionizing the way people access freelance services.
 
 
 # Group Member
