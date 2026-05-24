@@ -19,7 +19,7 @@ FlexServe is a digital marketplace for professional service providers like makeu
 
 # Phase 1 : Project Proposal And Planning
 [Kanban Board Link](https://github.com/users/nurshahadahshahruleffendi/projects/1/views/1)  
-[Phase 1 Report](https://github.com/user-attachments/files/27981716/SECD2613.PROJECT.PHASE.1.2.pdf)
+[Phase 1 Report]/SECD2613 PROJECT PHASE 1 (3).pdf
 
 # Phase 2 :  Infromation System Gathering And Requirement
 
